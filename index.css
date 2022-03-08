@@ -4,6 +4,14 @@ body{
 
 p{
     background-color: yellow;
-    font-size: 1.5 em;
+    font-size: 1.5 rem;
     border: 2px solid black;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: .3em solid black;
+    background-color: greenyellow;
+    box-shadow: 5px 5px 5px 0 orange;
 }
